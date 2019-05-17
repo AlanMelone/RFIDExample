@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\bin\Release\SampleCode.exe.config
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\bin\Release\SampleCode.exe
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\bin\Release\SampleCode.pdb
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\bin\Release\MyReaderAPI.dll
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\obj\Release\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\obj\Release\SampleCode.exe
+C:\Users\Maria\Desktop\MainLine_PCReaderC#version_V2.18.0_20180711\SampleCode\SampleCode\obj\Release\SampleCode.pdb
